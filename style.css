@@ -26,7 +26,7 @@
     border:2px solid white;
     border-radius: 4px;
 }
-/* box2 */
+
 .add-icon{
     display: flex;
     align-items: center;
@@ -45,7 +45,7 @@
     border-radius: 4px;
     cursor: pointer;
 }
-/* box3 */
+
 .nav-search{
     display: flex;
     background-color: pink;
@@ -81,7 +81,7 @@
     border-bottom-right-radius: 4px;
 
 }
-/* box4 */
+
 .nav-first{
     font-size: 0.75rem;
 }
@@ -94,7 +94,7 @@
     border-radius: 4px;
     cursor: pointer;
 }
-/* box5 */
+
 .nav-cart i {
     font-size: 30px;
 }
@@ -107,7 +107,7 @@
     border-radius: 4px;
     cursor: pointer;
 }
-/* panel */
+
 .panel{
     height:40px;
     background-color: #222f3d;
@@ -132,7 +132,7 @@
     font-size: 0.9rem;
     font-weight: 700;
 }
-/* hero-section */
+
 .hero-section{
     background-image: url(hero_image.jpg);
     height:350px;
@@ -158,7 +158,7 @@
     cursor: pointer;
     text-decoration: underline;
 }
-/* shop-section */
+
 .shop-section{
     height:980px;
     display: flex;
@@ -169,7 +169,7 @@
 .box{
     height:400px;
     width: 23%;
-    /* border: 2px solid black; */
+   
     background-color: white;
     padding:20px 0px 15px;
     margin-top: 15px;
@@ -194,7 +194,7 @@
 .box-content p:hover{
     text-decoration: underline;
 }
-/* sign-in */
+
 .sign-in{
     height:150px;
     /* background-color: pink; */
@@ -230,7 +230,7 @@ button:hover{
 .sign-in a:hover{
     text-decoration: underline;
 }
-/* footer */
+
 footer{
     margin-top: 15px;
 }
@@ -291,7 +291,7 @@ ul a{
     color:#222f3d;
     cursor: pointer;
 }
-/* panel4 */
+
 .foot-panel4{
     border-top: 0.1px solid rgb(165, 162, 162,0.3);
     background-color: #222f3d;
